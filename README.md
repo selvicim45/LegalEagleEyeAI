@@ -110,7 +110,7 @@ AZURE_TRANSLATOR_REGION=<your_azure_translator_region>
 
 **1. Clone the repository**
 
-git clone https://github.com/yourusername/LegalEagleEyeAI.git
+git clone (https://github.com/selvicim45/LegalEagleEyeAI)
 cd LegalEagleEyeAI
 
 **2. Install and Run the Frontend**
@@ -126,7 +126,7 @@ cd ../server
 python3 -m venv venv
 source venv/bin/activate # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-python main.py
+python legal_eagleeye_ai.py
 - The backend runs on `http://localhost:5001`.
 
 **4. Environment Variables**
