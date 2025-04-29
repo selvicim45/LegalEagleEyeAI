@@ -1,6 +1,6 @@
 #***********************************************************************
 #*                    Program: LeagalEagleEyeAI
-#*        Programmer: Arulselvi Amirrthalingam(Selvi) & Selvamani R
+#*        Programmer: Arulselvi Amirrthalingam(Selvi) 
 #*                         Date: 2025-04-25
 #* Project Description:
 #LegalEagelEye AI is a Agentic AI,
