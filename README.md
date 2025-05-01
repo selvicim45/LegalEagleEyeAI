@@ -1,8 +1,22 @@
 # LegalEagleEyeAI 🦅
 
 LegalEagleEyeAI is an agentic AI web application designed to help users understand legal documents and quickly review any risks or obligations before signing. Whether it's a car rental agreement, social media terms, contest rules, or any fine print, LegalEagleEyeAI empowers everyone to make informed decisions with accessible, AI-powered document analysis.
+---
+
+## Table of Contents
+- [Features](#features)
+- [Architecture](#architecture)
+- [Demo / Video Presentation](#demo--video-presentation)
+- [Software Stack](#software-stack)
+- [Environment Variables](#environment-variables)
+- [Setup & Local Development](#setup--local-development)
+- [Usage Guide](#usage-guide)
+- [What's Next?](#whats-next)
+- [Attribution](#attribution)
+- [Contact](#contact)
 
 ---
+
 
 ## Features
 
@@ -24,22 +38,6 @@ LegalEagleEyeAI is an agentic AI web application designed to help users understa
 - **Interactive Q&A Chatbot**  
   Ask questions about any clause or the full document context. The AI provides clear, context-aware answers.
 
----
-
-## Table of Contents
-
-- [Features](#features)
-- [Architecture](#architecture)
-- [Demo / Video Presentation](#demo--video-presentation)
-- [Software Stack](#software-stack)
-- [Environment Variables](#environment-variables)
-- [Setup & Local Development](#setup--local-development)
-- [Usage Guide](#usage-guide)
-- [What's Next?](#whats-next)
-- [Attribution](#attribution)
-- [Contact](#contact)
-
----
 
 ## Architecture
 
